@@ -8,7 +8,7 @@ title: "Rossella Anania"
 <div class="sidebar">
 
 
-![](images/profile.jpg){width=220px}
+![](images/profile2.jpg)
 
 ananiar@tcd.ie \
 [GitHub](https://github.com/Rossella4712) \
