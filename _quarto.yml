@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Rossella Anania"
+  navbar:
+    background: '#e52b50'
+    left:
+      - href: index.qmd
+        text: Home
+      - cv.qmd
+      - phd_thesis.qmd
+      - research.qmd
+      - interests.qmd
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+

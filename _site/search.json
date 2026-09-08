@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "List of my first-author publications: ADS library\nList of my co-authored publications: ADS library\nNumerical tools and datasets:\n* On my GitHub page you can access:\n- the Dusty routine to compute external photoevaporation\n- the routine to compute the FUV flux at the position of stars in the Orion complex\n* Diskpop code: link\n* Catalogue of FUV fluxes for Class II objects in nearby star-forming regions: CDS table\n* Catalogue of FUV fluxes for stellar members of Orion: paper (waiting for the CDS table to be public)\n\n\n\n\nAGE-PRO: External photoevaporation of the Upper Sco protoplanetary discs\n\nI am co-I of the AGE-PRO ALMA Large Program (PI: Zhang, Pascucci, Perez, Pinilla) with main aim constraining gas disc evolution across ages by investigating 30 protoplanetary discs in three star-forming regions (10 in Ophiuchus, &lt;1 Myr, 10 in Lupus, 2-3 Myr, and 10 in Upper Sco, 3-10 Myr). The data and publications of AGE-PRO can be found here.\n\nMy work, AGE-PRO VIII, showed that the gas and dust disc masses and radii of the AGE-PRO targets in the Upper Sco region cannot be explained by a classical disc viscous evolution model. Instead, accounting for the process of external photoevaporation is fundamental even when targets are experiencing moderate levels of FUV radiation field (in this case ~2-12 G0).\n\n\n\n\n\n\n\nAccurate FUV flux calculation: Catalogues and Tolls\n\nIn Anania et al. (2025a), I presented a novel method to compute the FUV flux at the position of stars accounting for the main uncertainty of this calculation: the 3D separation to OB stars. I used the 2D geometry of a stellar cluster and the assumption of isothropy to derive the local stellar density distribution of the region, which is proportional to the probability of the 3D separation between stars. By sampling this probability, I provided FUV flux and uncertainty for more than 1500 Class IIs in the nearby star-forming regions.\n\nIn Anania et al. (2026), I applied the same method to the Orion complex, providing FUV flux values for more than 8000 stellar members.\n\nOn the tool: The stars (or the regions) that you are looking for may not appear in the published catalogues. This can happen if the stellar membership of those stars were not well defined at the compilation of the catalogues, or because your region of interest was outside our scope.\nIf you need FUV fluxes for your targets, feel free to contact me and I wuould be happy to use compute them for you, or compare your computation with mine! :)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rossella Anania",
+    "section": "",
+    "text": "ananiar@tcd.ie\nGitHub\nORCID\n\n\n\nWelcome to my personal webpage!\nMy name is Rossella Anania, and I am a Postdoctoral Researcher at the School of Physics at Trinity College Dublin, Ireland, where I work in the group of Prof. Luca Matrà.\nMy research focuses on the study of circumstellar discs of gas and dust, which are the birthplaces of planets. I try to understand how these systems evolve by studying them mainly from a theoretical and modelling perspective. I am particularly interested in disc population studies, the effects of the stellar formation environment (especially external photoevaporation), and the connection between young protoplanetary discs and evolved debris discs and planetesimal belts.\nApart from stars, planets, and equations, I love figure skating, crocheting and knitting, and anime and manga.\nYou can find out more about me and my research by exploring the pages of this website.\nI hope you enjoy your visit, and please feel free to reach out to me! :)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "/* I was born and grow up in Italy. I obtaining my Bachelor and Master degree in Physics at the Universita’ degli Studi di Milano , supervised by Prof. Giuseppe Lodato.\nSubsequently, always in Milan, I defended my PhD in Astrophysics in December 2025, under the supervision of Prof. Giovanni Rosotti and Dr. Andrew Winter. You can read my thesis, “Assessing the role of external photoevaporation in nearby star-forming regions”, in the related page. My PhD thesis was awarded the honorable mention “Pietro Tacchini” as best PhD thesis of the year by the Italian Astronomical Society link.\nAt the end of my PhD, I moved to the “less sunny” Ireland for a Postdoc, at Trinity College Dublin within the research group of Luca Matra.\n\nDuring my PhD, I had the opportunity to travel, present my work in international conferences, and collaborate with many amazing scientists.\n\nI enjoy working with students. In 2025-2026, I co-supervised one Master student (Jingyi Ping) together with Prof. Paola Pinilla, and I am currently supervising an undergraduate student project at TCD.\n\nI have published 3 papers as first author, and collaborated in 17 papers as co-author.\n\nI am co-developer of the population synthesis code for protoplanetary discs Diskpop, where I implemented the routine to simulate the effect of external photoevaporation.\nYou can view my extended CV here: View my CV (PDF) Left profile area */"
+  },
+  {
+    "objectID": "phd_thesis.html",
+    "href": "phd_thesis.html",
+    "title": "Rossella Anania",
+    "section": "",
+    "text": "documents/PhD_Thesis_AnaniaRossella.pdf"
+  },
+  {
+    "objectID": "test_scripts.html",
+    "href": "test_scripts.html",
+    "title": "Rossella Anania",
+    "section": "",
+    "text": "/* I was born and grow up in Italy. I obtaining my Bachelor and Master degree in Physics at the Universita’ degli Studi di Milano , supervised by Prof. Giuseppe Lodato.\nSubsequently, always in Milan, I defended my PhD in Astrophysics in December 2025, under the supervision of Prof. Giovanni Rosotti and Dr. Andrew Winter. You can read my thesis, “Assessing the role of external photoevaporation in nearby star-forming regions”, in the related page. My PhD thesis was awarded the honorable mention “Pietro Tacchini” as best PhD thesis of the year by the Italian Astronomical Society link.\nAt the end of my PhD, I moved to the “less sunny” Ireland for a Postdoc, at Trinity College Dublin within the research group of Luca Matra.\n\nDuring my PhD, I had the opportunity to travel, present my work in international conferences, and collaborate with many amazing scientists.\n\nI enjoy working with students. In 2025-2026, I co-supervised one Master student (Jingyi Ping) together with Prof. Paola Pinilla, and I am currently supervising an undergraduate student project at TCD.\n\nI have published 3 papers as first author, and collaborated in 17 papers as co-author.\n\nI am co-developer of the population synthesis code for protoplanetary discs Diskpop, where I implemented the routine to simulate the effect of external photoevaporation.\nYou can view my extended CV here: View my CV (PDF)\n*/"
+  }
+]
