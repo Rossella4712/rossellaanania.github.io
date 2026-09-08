@@ -1,0 +1,158 @@
+/* css styles */
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(255,255,255,0.20);
+    z-index: -1;
+}
+
+body {
+  background-image: url("images/background_lapponia.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#quarto-content {
+    max-width: none !important;
+}
+
+main.content {
+    max-width: none !important;
+}
+
+.page-columns {
+    max-width: none !important;
+}
+
+.homepage {
+    width: 95vw;
+    max-width: none;
+    margin: 50px auto;
+
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+
+/* Left profile area */
+.sidebar {
+    width: 250px;
+    flex-shrink: 0;
+}
+
+.content-box {
+    background: rgba(255,255,255,0.80);
+    color: black;
+    width: 60%;
+    min-height: 400px;
+    padding: 40px;
+    border-radius: 7px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+
+.navbar {
+    background-color: rgba(237, 50, 94, 0.7) !important;
+}
+/* Text in navigation bar */
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white !important;
+}
+/* Hover effect */
+.navbar .nav-link:hover {
+    color: #ffffff !important;
+}
+
+
+.content-box_ {
+    background: rgba(255,255,255,0.92);
+    color: black;
+    width: 80%;
+    min-height: 400px;
+    padding: 40px;
+    border-radius: 7px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+
+.content-box_wide {
+    background: rgba(255,255,255,0.92);
+    color: black;
+    width: 110%;
+    min-height: 400px;
+    padding: 50px;
+    border-radius: 7px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+
+
+
+/*******************************************************
+/* Research page */
+.research-section {
+    display: flex;
+    flex-direction: row;
+    width: 75vw;
+    max-width: none;
+    margin: 10px 0.1vw;
+    gap: 20px;
+}
+
+/* Left content box */
+.research-content {
+    flex: 1;
+    width: auto;
+    max-width: 1100px;
+    background: rgba(255,255,255,0.90);
+    color: black;
+    padding: 22px;
+    max-height: 440px;
+    border-radius: 15px;
+}
+
+/* Left content box */
+.research-content_ {
+    flex: 1;
+    max-width: 1200px;
+    background: rgba(255,255,255,0.90);
+    color: black;
+    padding: 22px;
+    max-height: auto;
+    border-radius: 15px;
+}
+
+/* Ensure all text is black */
+.research-content h2,
+.research-content h3,
+.research-content p,
+.research-content li,
+.research-content strong {
+    color: black;
+}
+
+/* Right image */
+.research-image {
+    width: 37%;
+    flex-shrink: 4;
+}
+
+/* Right image */
+.research-image_ {
+    width: 37%;
+    flex-shrink: 4;
+}
+
+.research-photo {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.30);
+}
+/**********************************************************************************
